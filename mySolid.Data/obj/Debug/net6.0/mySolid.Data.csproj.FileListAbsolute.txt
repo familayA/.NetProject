@@ -1,0 +1,57 @@
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Data.deps.json
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Data.dll
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Data.pdb
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Core.dll
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Core.pdb
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.AssemblyInfo.cs
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.csproj.CopyComplete
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.dll
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\obj\Debug\net6.0\refint\mySolid.Data.dll
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.pdb
+Y:\Groups\Group_3\אדלר  חנה\mySolid\mySolid.Data\obj\Debug\net6.0\ref\mySolid.Data.dll
+Y:\Groups\Group_3\אדלר  חנה\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\אדלר  חנה\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\אדלר  חנה\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\אדלר  חנה\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.AssemblyInfo.cs
+Y:\Groups\Group_3\אדלר  חנה\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\אדלר  חנה\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.dll
+Y:\Groups\Group_3\אדלר  חנה\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\refint\mySolid.Data.dll
+Y:\Groups\Group_3\אדלר  חנה\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.pdb
+D:\שנה ב\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.csproj.AssemblyReference.cache
+D:\שנה ב\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.AssemblyInfoInputs.cache
+D:\שנה ב\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.AssemblyInfo.cs
+D:\שנה ב\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.csproj.CoreCompileInputs.cache
+D:\שנה ב\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.dll
+D:\שנה ב\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\refint\mySolid.Data.dll
+D:\שנה ב\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.pdb
+D:\שנה ב\DotNet\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Data.deps.json
+D:\שנה ב\DotNet\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Data.runtimeconfig.json
+D:\שנה ב\DotNet\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Data.dll
+D:\שנה ב\DotNet\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Data.pdb
+D:\שנה ב\DotNet\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Core.dll
+D:\שנה ב\DotNet\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Core.pdb
+D:\שנה ב\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.csproj.CopyComplete
+D:\שנה ב\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.genruntimeconfig.cache
+D:\שנה ב\DotNet\mySolid\mySolid.Data\obj\Debug\net6.0\ref\mySolid.Data.dll
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Data.deps.json
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Data.runtimeconfig.json
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Data.dll
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Data.pdb
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Core.dll
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\bin\Debug\net6.0\mySolid.Core.pdb
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.AssemblyInfo.cs
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.csproj.CopyComplete
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.dll
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\obj\Debug\net6.0\refint\mySolid.Data.dll
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.pdb
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\obj\Debug\net6.0\mySolid.Data.genruntimeconfig.cache
+C:\Users\user1\Documents\computer\API\mySolid\mySolid.Data\obj\Debug\net6.0\ref\mySolid.Data.dll

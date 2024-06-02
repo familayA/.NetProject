@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HBLTIm4qD9GgMAin8io2v4Y5y7vZHVy7jn+gDJWXPlE=",
+  "Source": "mySolid.API",
+  "BasePath": "_content/mySolid.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
